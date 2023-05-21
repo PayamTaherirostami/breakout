@@ -1,0 +1,55 @@
+.grid{
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: 1px solid black;
+}
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: Blue;
+   
+}
+#level{
+    color:deeppink;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+p{
+    padding: 10px;
+    color: red;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+}
+#score{
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding: 10px;
+    color: blue;
+}
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: red;
+   
+}
+button{
+    margin-left: 460px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 30px;
+    background-color:green;
+    color: yellow;
+    border: 3px yellow;
+    border-radius: 5px;
+}
+.ball{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color:fuchsia;
+}
